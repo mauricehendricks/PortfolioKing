@@ -1,0 +1,32 @@
+{
+  "name": "portfolioking",
+  "license": "0BSD",
+  "version": "1.0.3",
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~53.0.10",
+    "expo-linear-gradient": "~14.1.5",
+    "expo-status-bar": "~2.2.3",
+    "react": "19.0.0",
+    "react-native": "0.79.3",
+    "react-native-gifted-charts": "^1.4.61",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-pie": "^1.1.2",
+    "react-native-pie-chart": "^4.0.1",
+    "react-native-svg": "15.11.2",
+    "react-native-svg-charts": "^5.4.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@types/react": "~19.0.10",
+    "@types/react-native-svg-charts": "^5.0.16",
+    "typescript": "~5.8.3"
+  },
+  "private": true
+}
